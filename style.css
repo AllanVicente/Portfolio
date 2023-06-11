@@ -106,7 +106,7 @@ html{
 
 .home{
     display: flex;
-    background: rgb(0, 0, 0) url(imagens/w11.png) no-repeat center ;
+    background: rgb(0, 0, 0) url(./w11.png) no-repeat center ;
     background-size: cover;
     height: 100vh;
     color: #fff;
